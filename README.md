@@ -4,10 +4,15 @@ RateMyStore is a full-stack web application that allows users to rate and review
 
 ---
 
-## Live Links
+## Live Links & Repositories
 
-- Frontend: https://rate-my-store-frontend-sable.vercel.app/
-- Backend API: https://ratemystore-backend.onrender.com/
+### Live Deployment:
+- Frontend (React): https://rate-my-store-frontend-sable.vercel.app
+- Backend (Express API): https://ratemystore-backend.onrender.com
+
+### GitHub Repositories:
+- Frontend Repo: https://github.com/RounakRajSingh620/RateMyStore-Frontend
+- Backend Repo: https://github.com/RounakRajSingh620/RateMyStore-Backend
 
 ---
 
@@ -52,7 +57,7 @@ RateMyStore is a full-stack web application that allows users to rate and review
 
 ## Prerequisites
 
-- Node.js & npm
+- Node.js and npm
 - MySQL Server
 - Git CLI
 
@@ -60,7 +65,7 @@ RateMyStore is a full-stack web application that allows users to rate and review
 
 ## Setup Instructions
 
-### 1. Clone the Repository
+### 1. Clone the Repositories
 
 ```bash
 git clone https://github.com/RounakRajSingh620/RateMyStore-Frontend
