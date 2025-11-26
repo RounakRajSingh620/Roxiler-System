@@ -63,7 +63,7 @@ RateMyStore is a full-stack web application that allows users to rate and review
 
 ---
 
-## Setup Instructions
+## Setup Instructions for clone
 
 ### 1. Clone the Repositories
 
