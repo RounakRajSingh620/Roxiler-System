@@ -1,4 +1,4 @@
-DROP DATABASE IF EXISTS ratemystore;
+
 CREATE DATABASE ratemystore;
 USE ratemystore;
 CREATE TABLE users (
